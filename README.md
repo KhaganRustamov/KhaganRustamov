@@ -2,17 +2,17 @@
 
 # About me
 
-### <span style="font-family:Courier New; font-size:1.5em;">Hey, i'm Khagan 🖐️</span>
+### Hey, i'm Khagan 🖐️
 
-<span style="font-family:Courier New; font-size:1.2em;">I strive for success in the world of technology and for constant growth and self-improvement, as well as collaboration with those who share my values and ambitions.</span>
+I strive for success in the world of technology and for constant growth and self-improvement, as well as collaboration with those who share my values and ambitions.
 
-<span style="font-family:Courier New; font-size:1.2em;">My journey involves constant learning, creative thinking and a passion for solving complex problems.</span>
+My journey involves constant learning, creative thinking and a passion for solving complex problems.
 
-<span style="font-family:Courier New; font-size:1.2em;">I believe that the key to achieving goals is teamwork and collaborative effort.</span>
+I believe that the key to achieving goals is teamwork and collaborative effort.
 
-<span style="font-family:Courier New; font-size:1.2em;">My passion for learning new technologies allow me to find unique approaches to solving problems.</span>
+My passion for learning new technologies allow me to find unique approaches to solving problems.
 
-<span style="font-family:Courier New; font-size:1.2em;">I am proud to be part of a community of professionals who are committed to innovation and making a positive contribution to the world.</span>
+I am proud to be part of a community of professionals who are committed to innovation and making a positive contribution to the world.
 
 # Languages and Tools
 
