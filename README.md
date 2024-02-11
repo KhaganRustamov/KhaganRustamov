@@ -17,6 +17,8 @@ I am proud to be part of a community of professionals who are committed to innov
 ![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/Node.js-gray?style=for-the-badge&logo=Node.js)
+![Express.js](https://img.shields.io/badge/Express.js-green?style=for-the-badge&logo=Express.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-purple?style=for-the-badge&logo=MongoDB)
 ![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-green?style=for-the-badge&logo=Redux)
 ![Redux_Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux)
