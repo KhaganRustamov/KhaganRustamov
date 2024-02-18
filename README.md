@@ -29,6 +29,3 @@ I am proud to be part of a community of professionals who are committed to innov
 ![JSON](https://img.shields.io/badge/JSON-green?style=for-the-badge&logo=json)
 ![Webpack](https://img.shields.io/badge/Webpack-purple?style=for-the-badge&logo=Webpack)
 ![Babel](https://img.shields.io/badge/Babel-orange?style=for-the-badge&logo=Babel)
-![html](https://img.shields.io/badge/html-brown?style=for-the-badge)
-![CSS](https://img.shields.io/badge/CSS-pink?style=for-the-badge)
-![RESTful_API](https://img.shields.io/badge/RESTful_API-cyan?style=for-the-badge)
