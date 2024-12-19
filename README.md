@@ -2,15 +2,11 @@
 
 ### Hey, i'm Khagan 🖐️
 
-I strive for success in the world of technology and for constant growth and self-improvement, as well as collaboration with those who share my values and ambitions.
-
-My journey involves constant learning, creative thinking and a passion for solving complex problems.
-
-I believe that the key to achieving goals is teamwork and collaborative effort.
-
-My passion for learning new technologies allow me to find unique approaches to solving problems.
-
-I am proud to be part of a community of professionals who are committed to innovation and making a positive contribution to the world.
+I am a full-stack JavaScript developer.
+I am proficient in modern frameworks such as React, Next.js, Express and can build powerful, scalable applications.
+My approach is to write clean, understandable code that is easy to maintain.
+I can integrate APIs, configure databases, optimize application performance and create user interfaces that are pleasing to the eye.
+I am open to interesting projects where I can apply my knowledge and creativity, as well as to collaborate with teams striving to create innovative solutions.
 
 # Languages and Tools
 
