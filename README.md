@@ -15,13 +15,14 @@ I am proud to be part of a community of professionals who are committed to innov
 # Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=TypeScript)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js)
-![Express](https://img.shields.io/badge/Express-purple?style=for-the-badge&logo=Express)
-![React](https://img.shields.io/badge/React-yellow?style=for-the-badge&logo=react)
+![Express](https://img.shields.io/badge/Express-gray?style=for-the-badge&logo=Express)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=Next.js)
 ![Redux_Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux)
-![Next.js](https://img.shields.io/badge/Next.js-orange?style=for-the-badge&logo=next.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)
+![SQL](https://img.shields.io/badge/SQL-gray?style=for-the-badge&logo=SQL)
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git)
 ![npm](https://img.shields.io/badge/npm-yellow?style=for-the-badge&logo=npm)
 ![JSON](https://img.shields.io/badge/JSON-green?style=for-the-badge&logo=json)
