@@ -24,6 +24,7 @@ I am open to interesting projects where I can apply my knowledge and creativity,
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)
 ![MSSQL](https://img.shields.io/badge/MSSQL-gray?style=for-the-badge&logo=MSSQL)
 ![Prisma](https://img.shields.io/badge/Prisma-red?style=for-the-badge&logo=Prisma)
+![Redis](https://img.shields.io/badge/Redis-gray?style=for-the-badge&logo=Redis)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker)
 ![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
