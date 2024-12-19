@@ -23,6 +23,7 @@ I am proud to be part of a community of professionals who are committed to innov
 ![Redux_Toolkit](https://img.shields.io/badge/Redux_Toolkit-purple?style=for-the-badge&logo=redux)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=MongoDB)
 ![MSSQL](https://img.shields.io/badge/MSSQL-gray?style=for-the-badge&logo=MSSQL)
+![Prisma](https://img.shields.io/badge/Prisma-red?style=for-the-badge&logo=Prisma)
 ![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git)
 ![npm](https://img.shields.io/badge/npm-yellow?style=for-the-badge&logo=npm)
 ![JSON](https://img.shields.io/badge/JSON-green?style=for-the-badge&logo=json)
