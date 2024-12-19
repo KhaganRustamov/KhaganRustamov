@@ -3,9 +3,13 @@
 ### Hey, i'm Khagan 🖐️
 
 I am a full-stack JavaScript developer.
+
 I am proficient in modern frameworks such as React, Next.js, Express and can build powerful, scalable applications.
+
 My approach is to write clean, understandable code that is easy to maintain.
+
 I can integrate APIs, configure databases, optimize application performance and create user interfaces that are pleasing to the eye.
+
 I am open to interesting projects where I can apply my knowledge and creativity, as well as to collaborate with teams striving to create innovative solutions.
 
 # Languages and Tools
