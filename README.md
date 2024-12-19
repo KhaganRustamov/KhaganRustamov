@@ -14,7 +14,7 @@ I am proud to be part of a community of professionals who are committed to innov
 
 # Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/JavaScript-blue?style=for-the-badge&logo=javascript)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=TypeScript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=Node.js)
 ![Express](https://img.shields.io/badge/Express-purple?style=for-the-badge&logo=Express)
