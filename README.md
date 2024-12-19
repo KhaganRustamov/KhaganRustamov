@@ -26,6 +26,6 @@ I am proud to be part of a community of professionals who are committed to innov
 ![Prisma](https://img.shields.io/badge/Prisma-red?style=for-the-badge&logo=Prisma)
 ![Postman](https://img.shields.io/badge/Postman-orange?style=for-the-badge&logo=Postman)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=Docker)
-![Git](https://img.shields.io/badge/Git-blue?style=for-the-badge&logo=git)
+![Git](https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git)
 ![Jira](https://img.shields.io/badge/Jira-blue?style=for-the-badge&logo=Jira)
 ![npm](https://img.shields.io/badge/npm-yellow?style=for-the-badge&logo=npm)
